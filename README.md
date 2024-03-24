@@ -1,21 +1,17 @@
+English| [简体中文](./README_cn.md)
+
 # hobot_model
 
-
-
-## 编译成deb安装包
-
+## Compile into deb installation package
 
 ```
 fakeroot dpkg-deb --build hobot-models-basic .
 ```
 
-## 修改deb安装包版本号
+## Modify deb installation package version number
 
-修改`hobot-models-basic/DEBIAN/control`文件中`Version`字段。
+Modify the `Version` field in the `hobot-models-basic/DEBIAN/control` file.
 
+## Add/Delete/Modify model files
 
-## 增/删/改模型文件
-
-更新`hobot-models-basic/opt/hobot/model/x3/basic/`路径下文件。
-
-
+Update files under the `hobot-models-basic/opt/hobot/model/x3/basic/` path.
