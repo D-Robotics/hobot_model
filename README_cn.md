@@ -18,6 +18,6 @@ fakeroot dpkg-deb --build hobot-models-basic .
 
 ## 增/删/改模型文件
 
-更新`hobot-models-basic/opt/hobot/model/x3/basic/`路径下文件。
+更新`hobot-models-basic/opt/hobot/model/x5/basic/`路径下文件。
 
 
