@@ -5,5 +5,5 @@ Architecture: arm64
 Installed-Size: 472000
 Pre-Depends: 
 Depends:
-Maintainer: kairui.wang <kairui.wang@horizon.ai style="word-wrap: break-word;"> 
+Maintainer: kairui.wang <kairui.wang@d-robotics.cc style="word-wrap: break-word;"> 
 Description: Basic models
