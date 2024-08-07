@@ -15,3 +15,4 @@ Modify the `Version` field in the `hobot-models-basic/DEBIAN/control` file.
 ## Add/Delete/Modify model files
 
 Update files under the `hobot-models-basic/opt/hobot/model/x5/basic/` path.
+
