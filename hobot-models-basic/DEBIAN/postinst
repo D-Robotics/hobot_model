@@ -7,4 +7,4 @@ if [ -d "$FILE" ]; then
     unlink $FILE
 fi
 
-ln -s /opt/hobot/model/x3/basic /app/model/basic
+ln -s /opt/hobot/model/x5/basic /app/model/basic
