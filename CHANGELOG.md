@@ -1,6 +1,6 @@
 # Changelog for package hobot_model
 
-# 1.1.3 (2024-08-26)
+# 1.1.3 (2024-09-05)
 ------------------
 1. 修复mobilenet_unet模型错误问题。
 
