@@ -1,9 +1,9 @@
 Package: hobot-models-basic
-Version: 4.0.3
-Section: utils 
+Version: 4.0.4
+Section: utils
 Architecture: arm64
-Installed-Size: 472000
-Pre-Depends: 
+Installed-Size: 320432
+Pre-Depends:
 Depends:
-Maintainer: kairui.wang <kairui.wang@d-robotics.cc style="word-wrap: break-word;"> 
+Maintainer: kairui.wang <kairui.wang@d-robotics.cc style="word-wrap: break-word;">
 Description: Basic models
