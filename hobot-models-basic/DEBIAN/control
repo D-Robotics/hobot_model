@@ -1,9 +1,9 @@
 Package: hobot-models-basic
-Version: 1.1.3
+Version: 1.2.0
 Section: utils 
 Architecture: arm64
-Installed-Size: 472000
+Installed-Size: 478208
 Pre-Depends: 
 Depends:
-Maintainer: kairui.wang <kairui.wang@d-robotics.cc style="word-wrap: break-word;"> 
+Maintainer: zixi01.chen <zixi01.chen@d-robotics.cc style="word-wrap: break-word;"> 
 Description: Basic models for RDK X5
