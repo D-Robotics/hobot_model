@@ -1,10 +1,6 @@
 # Changelog for package hobot_model
 
-4.0.3 (2025-06-23)
+5.0.0 (2025-11-28)
 -----------------
-1. 更新s100参考算法, 适配ucp 3.7.3 版本。
-
-1.0.0 (2025-03-07)
-------------------
-1. 新增s100参考算法, yolov8n, yolov8seg, yolov10ns 模型，增加deb包编译依赖文件。
-
+1. 初始化rdks600的模型仓库；
+2. 新增s600参考模型, fcos_efficientnetb0, mobilenetv2_224x224_nv12, yolov5x, deeplabv3plus_efficientnetb0, yolov2_darknet19, resnet18, unet_mobilenet, yolov3_darknet53模型；

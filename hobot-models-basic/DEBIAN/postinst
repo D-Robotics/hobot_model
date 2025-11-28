@@ -8,4 +8,4 @@ if [ -d "$FILE" ]; then
     unlink $FILE
 fi
 
-ln -s /opt/hobot/model/s100/basic /app/model/basic
+ln -s /opt/hobot/model/s600/basic /app/model/basic
